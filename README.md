@@ -1,14 +1,11 @@
 <!-- GitHub Profile README for keshav2109-hue -->
 
-<h1 align="center">Hi 👋, I'm Keshav</h1>
+<h1 align="center">Hi 👋, I'm Madhav</h1>
 <h3 align="center">Student | All Language Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://studyverse-network.netlify.app/">
     <img src="https://img.shields.io/badge/Visit-StudyVerse-green?style=for-the-badge&logo=vercel" alt="StudyVerse"/>
-  </a>
-  <a href="mailto:keshav2109.hue@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://github.com/keshav2109-hue?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github" alt="Repos"/>
@@ -61,9 +58,9 @@
 
 ## 📫 How to reach me
 
-- Email: [keshav2109.hue@gmail.com](mailto:keshav2109.hue@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) <!-- Replace with your actual LinkedIn link -->
-- [Personal Website](https://studyverse-network.netlify.app/)
+- [Telegram Channel](https:/t.me/StudyVerse_Network_SV) 
+- [Telegram](https:/t.me/Madhav_IzPro) 
+- [Main Website](https://studyverse-network.netlify.app/)
 
 ---
 
