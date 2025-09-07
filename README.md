@@ -58,8 +58,8 @@
 
 ## 📫 How to reach me
 
-- [Telegram Channel](https:/t.me/StudyVerse_Network_SV) 
-- [Telegram](https:/t.me/Madhav_IzPro) 
+- [Telegram Channel](https://t.me/StudyVerse_Network_SV) 
+- [Telegram](https://t.me/Madhav_IzPro) 
 - [Main Website](https://studyverse-network.netlify.app/)
 
 ---
